@@ -1,4 +1,4 @@
-package com.example.fredde1;
+package fi.arcada.android;
 
 import org.junit.Test;
 

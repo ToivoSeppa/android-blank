@@ -1,14 +1,10 @@
-package com.example.fredde1;
+package fi.arcada.android;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-
-    public static void main(String[] args) {
-        
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
